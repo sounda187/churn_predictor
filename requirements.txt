@@ -1,9 +1,8 @@
-polars>=0.20.0
-cerberus>=1.3.5
-great-expectations>=0.1.19
-optuna>=3.6.0
-pandas
-scikit-learn>=1.5.0
-streamlit
-plotly
-jupyter
+streamlit==1.38.0
+polars==1.9.0
+scikit-learn==1.5.2
+joblib==1.4.2
+numpy==2.1.1
+pandas==2.2.3
+cerberus==1.3.5
+plotly==5.24.1
